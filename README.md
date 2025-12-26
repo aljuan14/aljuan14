@@ -27,8 +27,6 @@
     <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV" alt="OpenCV"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=selenium" width="45" title="Selenium" alt="Selenium"/>
   </div>
-  <br/>
-
   <h3>🌐 Web Development</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=react" width="45" title="React" alt="React"/>&nbsp;
@@ -37,9 +35,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" alt="Node.js"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=tailwindcss" width="45" title="Tailwind CSS" alt="Tailwind CSS"/>
   </div>
-
-  <br/>
-
   <h3>🛠️ Tools & Others</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker" alt="Docker"/>&nbsp;
