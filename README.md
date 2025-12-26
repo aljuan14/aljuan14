@@ -30,7 +30,6 @@
     <img src="https://skillicons.dev/icons?i=numpy" width="45" title="NumPy" alt="NumPy"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=matplotlib" width="45" title="Matplotlib" alt="Matplotlib"/>
   </div>
-
   <br/>
 
   <h3>🌐 Web Development</h3>
