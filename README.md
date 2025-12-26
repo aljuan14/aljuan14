@@ -57,11 +57,10 @@
 | **📈 Fiscal Sentiment Analysis** | NLP study on Ministers using Semi-Supervised Learning. | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
 
 ---
-
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aljuan14&theme=radical&hide_border=true" alt="Alfito's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true" alt="Alfito's Stats" />
 </div>
 
 <br/>
