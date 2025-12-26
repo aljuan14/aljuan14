@@ -15,7 +15,6 @@
 
 <hr/>
 
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -52,18 +51,17 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🇮🇩 Ethnicity Detection** | AI web app to classify Indonesian ethnicity from facial images (MTCNN & FaceNet). | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> 
-| **📍 Smart Attendance** | Attendance app with Geofencing & Selfie verification. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" /> |
-| **🎨 Outfit Recommender** | CV model recommending outfit colors based on skin tone (MobileNetV2). | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
-| **📈 Fiscal Sentiment Analysis** | NLP study on Ministers using Semi-Supervised Learning. | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /> |
+| **🇮🇩 Ethnicity Detection** | AI web app to classify Indonesian ethnicity from facial images (MTCNN & FaceNet). | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **📍 Smart Attendance** | Attendance app with Geofencing & Selfie verification. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **🎨 Outfit Recommender** | CV model recommending outfit colors based on skin tone (MobileNetV2). | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **📈 Fiscal Sentiment Analysis** | NLP study on Ministers using Semi-Supervised Learning. | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true" alt="Alfito's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljuan14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljuan14&theme=radical&hide_border=true" alt="Alfito's Streak" />
 </div>
 
 <br/>
