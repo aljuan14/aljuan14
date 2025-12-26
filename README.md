@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
   
   <p>
-    <b>Informatics Student @ Universitas Teknologi Yogyakarta (Semester 7)</b>
+    <b>Informatics Student @ Universitas Teknologi Yogyakarta</b>
   </p>
 
   <a href="https://www.linkedin.com/in/alfito-juanda/" target="_blank">
@@ -15,16 +15,6 @@
 
 <hr/>
 
-### 👨‍💻 About Me
-
-I am a software engineering student with a deep focus on **Artificial Intelligence** and **Fullstack Web Development**. I love bridging the gap between complex AI models and user-friendly web applications. Currently, I am exploring **NLP** and **System Deployment**.
-
-- 🔭 I’m currently working on **AI-Integrated Web Apps**
-- 🌱 I’m currently learning **Advanced NLP & MLOps**
-- 💬 Ask me about **Computer Vision, FastAPI, React.js, and Deep Learning**
-- 🏆 Achievements: **Medallion for Excellence in LKS Cyber Security National Level**
-
----
 
 ### 🛠️ Tech Stack
 
@@ -62,8 +52,7 @@ I am a software engineering student with a deep focus on **Artificial Intelligen
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🇮🇩 Ethnicity Detection** | AI web app to classify Indonesian ethnicity from facial images (MTCNN & FaceNet). | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> |
-| **🚢 ShipPal: B2B Matchmaking** | Platform connecting local SMEs with global buyers using AI Agents. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat&logo=openai&logoColor=white" /> |
+| **🇮🇩 Ethnicity Detection** | AI web app to classify Indonesian ethnicity from facial images (MTCNN & FaceNet). | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> 
 | **📍 Smart Attendance** | Attendance app with Geofencing & Selfie verification. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" /> |
 | **🎨 Outfit Recommender** | CV model recommending outfit colors based on skin tone (MobileNetV2). | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
 | **📈 Fiscal Sentiment Analysis** | NLP study on Ministers using Semi-Supervised Learning. | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /> |
