@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<h3>🤖 Artificial Intelligence & Data Science</h3>
+  <h3>🤖 Artificial Intelligence & Data Science</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=python" width="45" title="Python" alt="Python"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow" alt="TensorFlow"/>&nbsp;
@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=numpy" width="45" title="NumPy" alt="NumPy"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=matplotlib" width="45" title="Matplotlib" alt="Matplotlib"/>
   </div>
+
   <br/>
 
   <h3>🌐 Web Development</h3>
@@ -52,7 +53,6 @@
   </div>
 
 </div>
-
 ---
 
 ### 🚀 Featured Projects
