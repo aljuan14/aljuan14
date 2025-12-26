@@ -62,23 +62,25 @@ I am a software engineering student with a deep focus on **Artificial Intelligen
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🇮🇩 Ethnicity Detection System** | An AI-powered web app to classify Indonesian ethnicity from facial images using Deep Learning pipelines (MTCNN & FaceNet). | `FastAPI` `React` `PyTorch` `SVM` |
-| **🚢 ShipPal: Tinder for Business** | B2B matchmaking platform connecting local SMEs with global buyers using AI Agents for logistics & legal assistance. | `Next.js` `Supabase` `AI Agents` |
-| **📍 Smart Attendance System** | Modern attendance web app featuring Geofencing radius validation and Selfie verification to prevent fraud. | `Next.js 14` `Leaflet.js` `PostgreSQL` |
-| **🎨 Skintone Outfit Recommender** | Computer Vision model using Transfer Learning (MobileNetV2) to recommend outfit colors based on skin tone. | `TensorFlow` `MobileNetV2` `Python` |
-| **📈 Fiscal Policy Sentiment Analysis** | Comparative NLP study on Indonesian Finance Ministers using Semi-Supervised Learning to handle neutral sentiment bias. | `Scikit-Learn` `TF-IDF` `Selenium` |
+| **🇮🇩 Ethnicity Detection** | AI web app to classify Indonesian ethnicity from facial images (MTCNN & FaceNet). | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> |
+| **🚢 ShipPal: B2B Matchmaking** | Platform connecting local SMEs with global buyers using AI Agents. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat&logo=openai&logoColor=white" /> |
+| **📍 Smart Attendance** | Attendance app with Geofencing & Selfie verification. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" /> |
+| **🎨 Outfit Recommender** | CV model recommending outfit colors based on skin tone (MobileNetV2). | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| **📈 Fiscal Sentiment Analysis** | NLP study on Ministers using Semi-Supervised Learning. | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /> |
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljuan14&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="aljuan14's github stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljuan14&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 <br/>
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aljuan14&style=flat-square&color=blue" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=aljuan14&style=flat-square&color=blue" alt="Profile Viewer"/> 
 </div>
