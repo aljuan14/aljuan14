@@ -72,12 +72,10 @@ I am a software engineering student with a deep focus on **Artificial Intelligen
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="aljuan14's github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljuan14&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true" alt="Alfito's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljuan14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 <br/>
 
