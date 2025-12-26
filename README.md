@@ -15,7 +15,7 @@
 
 <hr/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 <h3>🤖 Artificial Intelligence & Data Science</h3>
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aljuan14&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Alfito's Activity Graph" />
