@@ -19,23 +19,36 @@
 
 <div align="center">
 
-  **Artificial Intelligence & Data Science**
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas" />
+  <h3>🤖 Artificial Intelligence & Data Science</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=python" width="45" title="Python" alt="Python"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow" alt="TensorFlow"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=pytorch" width="45" title="PyTorch" alt="PyTorch"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=sklearn" width="45" title="Scikit-Learn" alt="Scikit-Learn"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV" alt="OpenCV"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=pandas" width="45" title="Pandas" alt="Pandas"/>
+  </div>
 
-  <br />
-  <br />
+  <br/>
 
-  **Web Development**
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwindcss" />
+  <h3>🌐 Web Development</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=react" width="45" title="React" alt="React"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" alt="Next.js"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI" alt="FastAPI"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" alt="Node.js"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwindcss" width="45" title="Tailwind CSS" alt="Tailwind CSS"/>
+  </div>
 
-  <br />
-  <br />
+  <br/>
 
-  **Tools & Others**
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,git,mysql,supabase" />
+  <h3>🛠️ Tools & Others</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker" alt="Docker"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" alt="Git"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL" alt="MySQL"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=supabase" width="45" title="Supabase" alt="Supabase"/>
+  </div>
 
 </div>
 
