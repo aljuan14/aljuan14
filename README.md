@@ -63,4 +63,8 @@
 ---
 ### 📊 GitHub Activity
 
-![aljuan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljuan14)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aljuan14&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Alfito's Activity Graph" />
+</div>
+
+<br/>
