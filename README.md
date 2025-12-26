@@ -63,10 +63,4 @@
 ---
 ### 📊 GitHub Activity
 
-![Alfito's Stats](https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<br/>
-
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aljuan14&style=flat-square&color=blue" alt="Profile Viewer"/> 
-</div>
+![aljuan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljuan14)
