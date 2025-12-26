@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
   
   <p>
     <b>Informatics Student @ Universitas Teknologi Yogyakarta</b>
@@ -59,9 +59,7 @@
 ---
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true" alt="Alfito's Stats" />
-</div>
+![Alfito's Stats](https://github-readme-stats.vercel.app/api?username=aljuan14&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 <br/>
 
