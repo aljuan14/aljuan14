@@ -61,7 +61,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljuan14&theme=radical&hide_border=true" alt="Alfito's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=aljuan14&theme=radical&hide_border=true" alt="Alfito's Streak" />
 </div>
 
 <br/>
