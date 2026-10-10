@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4DEEEA&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
   
   <p>
-    <b>Informatics Student @ Universitas Teknologi Yogyakarta</b>
+    <b>Informatics Graduate @ Universitas Teknologi Yogyakarta</b>
   </p>
 
   <a href="https://www.linkedin.com/in/alfito-juanda/" target="_blank">
@@ -50,7 +50,11 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aljuan14&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Alfito's Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="Alfito's 3D Contribution Calendar" />
+  </picture>
 </div>
 
 <br/>
