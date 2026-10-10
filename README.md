@@ -1,19 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4DEEEA&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4DEEEA&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Alfito+Juanda;AI+Engineer+%26+Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+
   <p>
-    <b>Informatics Student @ Universitas Teknologi Yogyakarta</b>
+    <b>Informatics Graduate @ Universitas Teknologi Yogyakarta</b><br/>
+    📍 Yogyakarta, Indonesia
   </p>
 
   <a href="https://www.linkedin.com/in/alfito-juanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alfitojuanda14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=aljuan14&style=for-the-badge&color=4DEEEA&label=Profile+Views" alt="Profile views" />
 </div>
 
 <hr/>
+
+### About Me
+
+- 🎓 Graduated in **Informatics** from Universitas Teknologi Yogyakarta
+- 🤖 Building things with **machine learning, NLP, and computer vision**: sentiment analysis, spam detection, recommendation systems
+- 🌐 Shipping full-stack web apps with **React, Next.js, Svelte, and FastAPI**
+- 💼 Open to opportunities in **AI Engineering, Data Science, and Web Development**
 
 ### Tech Stack
 
@@ -29,8 +38,10 @@
   </div>
   <h3>🌐 Web Development</h3>
   <div>
+    <img src="https://skillicons.dev/icons?i=ts" width="45" title="TypeScript" alt="TypeScript"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=react" width="45" title="React" alt="React"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" alt="Next.js"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=svelte" width="45" title="Svelte" alt="Svelte"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI" alt="FastAPI"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" alt="Node.js"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=tailwindcss" width="45" title="Tailwind CSS" alt="Tailwind CSS"/>
@@ -39,6 +50,7 @@
   <div>
     <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker" alt="Docker"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" alt="Git"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL" alt="MySQL"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=supabase" width="45" title="Supabase" alt="Supabase"/>
   </div>
@@ -52,5 +64,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aljuan14&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Alfito's Activity Graph" />
 </div>
-
-<br/>
